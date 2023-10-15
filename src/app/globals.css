@@ -84,3 +84,7 @@
   .quill > .ql-container > .ql-editor.ql-blank::before{
     color: #b3b3b1;
   }
+
+  .ql-editor{
+    width: 400px;
+  }
